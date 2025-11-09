@@ -1,1 +1,5 @@
-Hi we are learning github 
+Hi we are learning github.
+GIT is used for Source code Management.
+GIT is for local repo and GITHUB is for whole repo where everyone can see the code.
+MASTER is the main branch in GIT where as MAIN is the main branch in GITHUB.
+We push the  code form GIT to GITHUB with git push origin main command.
